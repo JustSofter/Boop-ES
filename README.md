@@ -1,27 +1,24 @@
-# Boop
-***Become a friend of the sneks***
+# Boop-ES
 
-**NOW WITH SWITCH SUPPORT!**
+Current release: **1.0-ES**
 
-Current release: **2.0.0**
+Boop-ES es una implementación en C# de [servefiles.py de FBI](https://github.com/Steveice10/FBI/tree/2.4.5/servefiles) y [remote_install_pc.py de Tinfoil](https://github.com/Adubbz/Tinfoil/blob/master/tools/remote_install_pc.py)
 
-Boop is a C# implementation of the [servefiles.py from FBI](https://github.com/Steveice10/FBI/tree/2.4.5/servefiles) and [remote_install_pc.py from Tinfoil](https://github.com/Adubbz/Tinfoil/blob/master/tools/remote_install_pc.py)
+Boop-ES es un rewrite en C# de dichos archivos de python (No python needed).
 
-Boop is completely rewritten in C# and thus is snek friendly (No python needed).
+¡Mucho texto! Ve a la [página de descarga!](https://github.com/miltoncandelero/Boop/releases/latest)
 
-Enough talk! Take me to the [download page!](https://github.com/miltoncandelero/Boop/releases/latest)
+## Novedades:
 
-## Features:
+* Soporte con: Switch (.nsp) y 3DS (.cia)
+* Interfaz fácil de usar.
+* Soporte de arrastrar y pegar.
+* Boopeo de múltiples archivos.
+* Hosteo mediante EmbedIO. (¡HTTP 2.0 soportado!) 
+* No requiere permisos de administrador.
+* Selecciona una IP si tienes múltiples redes.
+* Serpientes (una con sombrero) buscándote.
 
-* Switch .nsp and 3DS .cia support!
-* Easy to use GUI.
-* Full Drag and Drop support.
-* Multi-File Booping.
-* We host using EmbedIO. (HTTP 2.0 supported!) 
-* Doesn't require administrator rights.
-* Selecting an IP address if you are connected to multiple networks.
-* Sneks (one with a top hat) looking after you.
+## Capturas de pantalla:
 
-## Screenshot:
-
-![Snek Screenshot](/boop2.png?raw=true "Boop v2.0.0")
+![Captura de serpientes](/boop2.png?raw=true "Boop v1.0-ES")
