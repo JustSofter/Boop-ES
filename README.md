@@ -6,7 +6,7 @@ Boop-ES es una implementación en C# de [servefiles.py de FBI](https://github.co
 
 Boop-ES es un rewrite en C# de dichos archivos de python (No python needed).
 
-¡Mucho texto! Ve a la [página de descarga!](https://github.com/miltoncandelero/Boop/releases/latest)
+¡Mucho texto Ve a la [página de descarga!](https://github.com/miltoncandelero/Boop/releases/latest)
 
 ## Novedades:
 
